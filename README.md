@@ -1,4 +1,3 @@
-
 ### Dataset Collection
 The dataset for this project if from the California Traffic Collision Data set, which contains information about every traffic collision from 2001 to 2020 in the state of California. The dataset is publicly available from The State of California, which maintains a database of traffic collisions called the Statewide Integrated Traffic Records System (SWITRS). The data is extensive, containing 9.46 million rows at 6.21 GB in total.
 ##### Source: 
